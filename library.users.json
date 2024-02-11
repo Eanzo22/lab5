@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65c377e441bb776b06f68c06"
+  },
+  "email": "m@m.com",
+  "password": "$2b$10$2/6XtzMsQCKYJW0QrkmSF.3u82LIRCALmQDXWv9rVWfgN6ZzJzlra",
+  "books": [
+    "65c22956f0edda6186fd258b",
+    "65c2295ef0edda6186fd258d"
+  ],
+  "createdOn": {
+    "$date": "2024-02-07T12:30:28.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c37a0b11c62c5549d6a5ef"
+  },
+  "email": "n@n.com",
+  "password": "$2b$10$HnluY2wVgbsY3YE8rtjc7uUuGSoAyaDID3XVTZPrpMqBPF5XUzhgS",
+  "books": [],
+  "createdOn": {
+    "$date": "2024-02-07T12:39:39.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c37ea1cf1aaa75fa64bf95"
+  },
+  "email": "momo@m.com",
+  "password": "$2b$10$VUJpjsTZrPn7QwbqVaIgluu.4v3jTntPQn6HkA1T54lCtekACgsBG",
+  "books": [
+    "65c22956f0edda6186fd258b",
+    "65c2295ef0edda6186fd258d"
+  ],
+  "createdOn": {
+    "$date": "2024-02-07T12:59:13.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c385aec933b0d26a42d74f"
+  },
+  "email": "moo@m.com",
+  "password": "$2b$10$zt2sbif36dJXl9jnmJ6GyeGKPXuI6ycIEixqVzS9OvTZyJ4lfvfCy",
+  "books": [],
+  "createdOn": {
+    "$date": "2024-02-07T13:29:18.362Z"
+  },
+  "__v": 0
+}]

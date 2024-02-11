@@ -17,7 +17,7 @@ app.set('views','views')
 //     res.render('books',{title:"ejs is working",message:"welcome to my `st ejs"})
 // })
 app.get('/',(req,res)=>{
-    res.send("Welcome to my first Express project, type /api/books to get all books")
+    res.send("Welcome to my first Express project, type /api/books to get all books , editing it using git , hope it works")
 })
 app.use("/api/user",userRouter)
 // app.use(auth)

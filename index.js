@@ -16,7 +16,7 @@ app.set('views','views')
 // app.get('/ejs',(req,res)=>{
 //     res.render('books',{title:"ejs is working",message:"welcome to my `st ejs"})
 // })
-app.get('/',(req,res)=>{
+app.gettt('/',(req,res)=>{
     res.send("Welcome to my first Express project, type /api/books to get all books , well it worked but now i want to make sure that i can access it ")
 })
 app.use("/api/user",userRouter)

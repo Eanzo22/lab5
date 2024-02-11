@@ -19,6 +19,8 @@ app.set('views','views')
 app.gettt('/',(req,res)=>{
     res.send("Welcome to my first Express project, type /api/books to get all books , well it worked but now i want to make sure that i can access it ")
 })
+
+//* pushing ne stuff for shymaa 
 app.use("/api/user",userRouter)
 // app.use(auth)
 app.use("/api/books",bookRouter)
